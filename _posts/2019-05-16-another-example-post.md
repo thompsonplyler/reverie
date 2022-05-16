@@ -3,6 +3,8 @@ layout: post
 title: Testing out the Markdown
 categories: [Miscellaneous]
 ---
+
+### Title for this section. How cool! 
 I'm editing this directly in GitHub. 
 
 Note in the bottom left. 
@@ -19,6 +21,13 @@ let colors = ["red", "green", "blue", "yellow"]
 
 colors.forEach(color=>console.log(color))
 
+```
+
+
+```ruby
+def my_function
+    puts "You will print me to console.
+end
 ```
 
 How cool, right?
