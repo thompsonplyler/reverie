@@ -3,8 +3,6 @@ layout: post
 title: Testing out the Markdown
 categories: [Miscellaneous]
 ---
-
-### Title for this section. How cool! 
 I'm editing this directly in GitHub. 
 
 Note in the bottom left. 
@@ -16,17 +14,19 @@ Now I'm going to test the Markdown implementation.
 
 Note the way I'm showing this syntax should be JavaScript:
 ```javascript
-
+// this is a comment in JavaScript
 let colors = ["red", "green", "blue", "yellow"]
 
 colors.forEach(color=>console.log(color))
 
 ```
 
+I will have to interrupt this. 
 
 ```ruby
+# This is a comment in Ruby
 def my_function
-    puts "You will print me to console.
+    puts "You will print me to console."
 end
 ```
 
