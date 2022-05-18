@@ -1,0 +1,13 @@
+{% if page.codepen %}
+{% assign c = page.codepen %}
+<div id="codepen">
+    <button class="btn" onclick="document.body.classList.toggle('sticky')">Dock</button>
+    <iframe height="265" scrolling="no" title="{{ c.title }}"
+        src="//codepen.io/{{ c.author }}/embed/{{ c.id }}/?height=265&amp;theme-id=dark&amp;default-tab=result"
+        frameborder="no" allowtransparency="true" allowfullscreen="true">
+        See the Pen <a href='https://codepen.io/{{ c.author }}/pen/{{ c.id }}/'>in browser sql terminal</a> by {{ c.name
+        }}
+        (<a href='https://codepen.io/{{ c.author }}'>@{{ c.author }}</a>) on <a href='https://codepen.io'>CodePen</a>.
+    </iframe>
+</div>
+{% endif %}
