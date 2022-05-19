@@ -87,6 +87,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-paginate
   - jekyll-avatar
+  - jekyll-octopod
 
 
 include: ['_pages']
