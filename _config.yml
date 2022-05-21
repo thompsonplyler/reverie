@@ -86,8 +86,9 @@ plugins:
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
   - jekyll-seo-tag
   - jekyll-paginate
-  - jekyll-avatar
+  - jekyll-avatar # Use Github avatar
   - jekyll-octopod
+  - jekyll-youtube # embed YouTube videos
 
 
 include: ['_pages']
