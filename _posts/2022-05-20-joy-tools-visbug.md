@@ -5,7 +5,7 @@ categories: [JavaScript, VS Code, HTML, CSS]
 ---
 The Google Chrome Dev YouTube channel recently posted video detailing a lot of exciting CSS features that will help developers exercise more control over the styling, but the one that really caught my attention was the `color-contrast()` property that is [currently (May 2022) unsupported by *any* browsers](https://developer.mozilla.org/en-US/docs/Web/CSS/color_value/color-contrast). 
 
-{% youtube "https://www.youtube.com/watch?v=Xy9ZXRRgpLk&t=636s"%}
+Watch it [here.](https://www.youtube.com/watch?v=Xy9ZXRRgpLk&t=636s) 
 
 Even if we only consider the aesthetic experience of a nonexistent "average" user, proper contrast between foreground text and background elements can be a tricky challenge even for experienced designers, but proper contrast acquires a new mandate when we consider the need to make our sites and apps as accessible as possible by adhering to [WCAG guidelines](https://www.w3.org/TR/WCAG21/). 
 
