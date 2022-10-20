@@ -2,6 +2,7 @@
 layout: post
 title: Deployment Check for SE Phase 5 Projects
 categories: [Deployment, Heroku, Rails, React, Configuration]
+description: Explanation and deep dive into issues that have come up during Flatiron School students' Phase 5 project deployments.
 ---
 
 # Addressing Deployment Issues For Phase 5 Projects
